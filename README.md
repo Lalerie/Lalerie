@@ -17,4 +17,4 @@ I'm a Data Analyst!
 
 - 🛠 Languages and Tools  
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,mysql,html,css,github&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,html,css,github&theme=dark)](https://skills.thijs.gg)
