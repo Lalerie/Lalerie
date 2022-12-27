@@ -11,7 +11,7 @@ I'm a Data Analyst!
 [![telegram](https://github.com/Lalerie/Lalerie/blob/main/icons8-telegram-50.png)](https://t.me/ut0chk1n)
 [![inst](https://github.com/Lalerie/Lalerie/blob/main/icons8-instagram-50.png)](https://www.instagram.com/ut0chkin/)
 
-- Check out my portfolio  
+- 🎁 Check out my portfolio  
 
 [![portfolio](https://github.com/Lalerie/Lalerie/blob/main/icons8-files-50.png)](https://github.com/Lalerie/Portfolio)
 
