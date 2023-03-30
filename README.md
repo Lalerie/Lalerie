@@ -3,7 +3,7 @@ I'm a Data Analyst!
 
 🐱‍👤 SQL, Python, Tableau, Statistics, Data visualization
 
-🎨 Fun fact: I spend more time balancing charts colour palettes then coding   
+🎨 Fun fact: the word 'profiterole' is a descendant of the word 'profit'.
 
 📫 Contact me  
 
