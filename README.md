@@ -15,7 +15,7 @@ I'm a Data Analyst!
 
 [![portfolio](https://github.com/Lalerie/Lalerie/blob/main/icons8-files-50.png)](https://github.com/Lalerie/Portfolio)
 [![tableau](https://github.com/Lalerie/Lalerie/blob/main/icons8-tableau-software-50.png)](https://public.tableau.com/app/profile/valeriya.lunkina/viz/Project10_2022_11_06/Dashboard1)
-[![tableau](https://github.com/Lalerie/Lalerie/blob/main/icons8-tableau-software-50.png)](https://public.tableau.com/app/profile/valeriya.lunkina/viz/Project10_2022_11_06/Dashboard1)
+[![tableau](https://github.com/Lalerie/Lalerie/blob/main/icons8-tableau-software-50.png)](https://public.tableau.com/app/profile/valeriya.lunkina/viz/Population_2018-2025/Dashboard1)
 
 🛠 Languages and Tools  
 
