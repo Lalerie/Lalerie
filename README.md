@@ -1,7 +1,7 @@
 ### Hi there, I'm Valerie 👋
 I'm a Data Analyst!
 
-🤖 SQL, Python, Tableau, Statistics, Data visualization
+🤖 SQL, Python, Tableau, Excel, Statistics, Data visualization
 
 🎉 Fun fact: the word 'profiterole' is a descendant of the word 'profit'.
 
