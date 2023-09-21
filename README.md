@@ -15,7 +15,7 @@ I'm a Data Analyst!
 
 [![portfolio](https://github.com/Lalerie/Lalerie/blob/main/icons8-files-50.png)](https://github.com/Lalerie/Portfolio)
 [![tableau](https://github.com/Lalerie/Lalerie/blob/main/icons8-tableau-software-50.png)](https://public.tableau.com/app/profile/lalerie)
-[![presentation](https://github.com/Lalerie/Lalerie/blob/main/icons8-tableau-software-50.png)]([https://public.tableau.com/app/profile/lalerie](https://docs.google.com/presentation/d/1Uix4FE67hRXpv5pdse4ckz0fkZujhXNGKDouW2V8Oxg/edit?usp=sharing))
+[![presentation](https://github.com/Lalerie/Lalerie/blob/main/icons8-new-slide-50.png)](https://docs.google.com/presentation/d/1Uix4FE67hRXpv5pdse4ckz0fkZujhXNGKDouW2V8Oxg/edit?usp=sharing)
 
 🛠️ Languages and Tools  
 
